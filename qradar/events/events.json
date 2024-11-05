@@ -124,7 +124,7 @@
       }
     ],
     "connector_mapping": {
-      "response": "{{data.data}}",
+      "response": "{{data}}",
       "datetime": {
         "from": "start_time"
       }
